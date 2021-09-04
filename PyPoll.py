@@ -113,12 +113,6 @@ winning_candidate_summary = (
 
 print(winning_candidate_summary)
 
-#print(f"{candidate_name}: {vote_percentage:.1f}% ({votes:,})\n")
-#print(winning_candidate_summary)#
-
-# Add a vote to that candidate's count
-        candidate_votes[candidate_name] += 1
-
-# Save the results to our text file.
-with open(file_to_save, "w") as txt_file:
-    
+print(winning_candidate_summary)
+    # Save the winning candidate's results to the text file.
+    txt_file.write(winning_candidate_summary)
