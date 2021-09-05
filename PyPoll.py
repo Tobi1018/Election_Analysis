@@ -18,7 +18,7 @@ dir(csv)
 
 
 #Assigne a variable fo the file to load and the path
-file_to_load = 'Election_Analysis/election_results.csv'
+file_to_load = 'election_results.csv'
 
 # Open the election results and read the file.
 election_data = open(file_to_load, 'r')
@@ -35,9 +35,9 @@ election_data.close()
 import csv
 import os
 # Assign a variable to load a file from a path.
-file_to_load =os.path.join("Election_Analysis/election_results.csv")
+file_to_load =os.path.join("election_results.csv")
 #Assign a variable to save the file to a path.
-file_to_load =os.path.join("Election_Analysis", "election_analysis.txt")
+file_to_load =os.path.join("analysis", "election_analysis.txt")
 
 #("analysis", "election_analysis.txt")
 #Election_Analysis\election_analysis.txt"
