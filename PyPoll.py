@@ -6,7 +6,7 @@
 # 5. The winner of the election based on popular votes.
 
 # Import the datetime class from the datetime module
-# Import the datetime class from the datetime module.
+# Import the datetime class from the datetime module
 import datetime as dt
 # Use the now() attribute on the datetime class to get the present time.
 now = dt.datetime.now()
@@ -59,7 +59,7 @@ import os
 # Assign a variable to load a file from a path.
 file_to_load = os.path.join("Election_Analysis", "election_results.csv")
 # Assign a variable to save the file to a path.
-file_to_save = os.path.join("analysis", "election_analysis.txt")
+file_to_save = os.path.join("election_analysis.txt")
 # Initialize a total vote counter.
 total_votes = 0
 # Candidate options and candidate votes
@@ -115,4 +115,5 @@ print(winning_candidate_summary)
 
 print(winning_candidate_summary)
     # Save the winning candidate's results to the text file.
-    txt_file.write(winning_candidate_summary)
+
+txt_file.write(winning_candidate_summary)
