@@ -1,10 +1,14 @@
 # Election_Analysis
  As part of this project, we analyzed the election audit of the Colorado Board of Elections.  To execute the scripts, we use Visual Studio Code and Python programming language. By running my script, I was able to determine that three hundred sixty-nine thousand seven hundred eleven votes were cast in the state of Colorado. Further, I found out that Diana DeGette won the election with 73.8% (272,892) after I run my script. 
 ## Election-Audit Results
-A complete list of candidates who received votes
-Total number of votes each candidate received
-Percentage of votes each candidate won
-The winner of the election based on popular vote
+A complete list of candidates who received votes.
+
+Total number of votes each candidate received.
+
+Percentage of votes each candidate won.
+
+The winner of the election based on popular vote.
+
 
 * Congressional Election Total Votes: 
 
