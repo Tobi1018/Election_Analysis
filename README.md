@@ -13,3 +13,8 @@
 * Largest County with the highest Votes count
 
 ![Screenshot (155)](https://user-images.githubusercontent.com/58860105/132145297-5c989a3d-590e-4aa7-ae7b-4e17c260600e.png)
+
+* Breakdown of the total votes and Percentages each candidates received
+
+![Screenshot (156)](https://user-images.githubusercontent.com/58860105/132145422-963d3276-95f9-4095-918a-93817f086f33.png)
+
