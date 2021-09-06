@@ -1,4 +1,5 @@
 # Election_Analysis
+ As part of this project, we analyzed the election audit of the Colorado Board of Elections.  During the analysis, we make use of the Python programming language and Visual Studio Code to write and execute scripts. 
 ## Election-Audit Results
 * Congressional Election Total Votes: 
 
