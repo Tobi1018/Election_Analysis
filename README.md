@@ -18,3 +18,8 @@
 
 ![Screenshot (156)](https://user-images.githubusercontent.com/58860105/132145422-963d3276-95f9-4095-918a-93817f086f33.png)
 
+* Vote_Count of the Election Winner and Percentag of the Total Votes
+
+![Election_Winner](https://user-images.githubusercontent.com/58860105/132145562-4b1cb8c9-74f5-4d17-ba68-b457f559e7a8.png)
+
+
