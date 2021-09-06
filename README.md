@@ -29,6 +29,7 @@
 
 ## Election-Audit Summary
    For Colorado, this election audit information can be an extremely valuable piece of information; it can serve a number of purposes, for example, this information can be used to estimate the total population of Colorado. 
+   
    *
    
    *
