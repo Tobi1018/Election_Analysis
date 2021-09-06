@@ -10,3 +10,6 @@
 
 ![County_Votes](https://user-images.githubusercontent.com/58860105/132145229-2a802293-84d5-4c57-830a-6f088be37b92.png)
 
+* Largest County with the highest Votes count
+
+![Screenshot (155)](https://user-images.githubusercontent.com/58860105/132145297-5c989a3d-590e-4aa7-ae7b-4e17c260600e.png)
