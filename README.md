@@ -22,4 +22,7 @@
 
 ![Election_Winner](https://user-images.githubusercontent.com/58860105/132145562-4b1cb8c9-74f5-4d17-ba68-b457f559e7a8.png)
 
+* The Election Summary count of Votes cast.
+
+![Screenshot (158)](https://user-images.githubusercontent.com/58860105/132145669-ead02279-e337-4f9f-8f47-6dd36831a707.png)
 
