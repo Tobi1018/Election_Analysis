@@ -30,7 +30,8 @@ The winner of the election based on popular vote.
 
 * Vote Count of the Election Winner and Percentage of the Total Votes
 
-![Election_Winner](https://user-images.githubusercontent.com/58860105/132145562-4b1cb8c9-74f5-4d17-ba68-b457f559e7a8.png)
+![Election_Winner](https://user-images.githubusercontent.com/58860105/132591486-542eb5a5-d8ff-48de-a54f-df052a58974f.png)
+
 
 * The Election Summary count of Votes cast.
 
