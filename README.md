@@ -34,7 +34,8 @@ The winner of the election based on popular vote.
 
 * The Election Summary count of Votes cast.
 
-![Screenshot (158)](https://user-images.githubusercontent.com/58860105/132145669-ead02279-e337-4f9f-8f47-6dd36831a707.png)
+![Screenshot (161)](https://user-images.githubusercontent.com/58860105/132591302-ad50177b-095f-4763-ac35-cb691306b0ea.png)
+
 
 ## Election-Audit Summary
    For Colorado, this election audit information can be an extremely valuable piece of information; it can serve a number of purposes, for example, this information can be used to estimate the total population of Colorado. There is an opportunity to modify this election audit in a way that will be more useful in the next election. For Examples;
